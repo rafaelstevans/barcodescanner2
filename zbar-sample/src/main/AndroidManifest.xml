@@ -36,9 +36,5 @@
                 android:label="@string/simple_scanner_activity">
         </activity>
 
-        <activity android:name=".SimpleScannerFragmentActivity"
-                android:theme="@style/AppOverlayTheme"
-                android:label="@string/simple_scanner_fragment_activity">
-        </activity>
-    </application>
+  </application>
 </manifest>
